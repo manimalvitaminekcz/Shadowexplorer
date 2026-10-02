@@ -217,4 +217,4 @@ ShadowExplorer is offered as a **full free version** with all features and updat
 Take control of your file recovery today! Download **ShadowExplorer** now and access your backups effortlessly.
 
 ---
-**Last updated:** 2026-10-01 20:01:26 UTC
+**Last updated:** 2026-10-02 00:23:02 UTC
